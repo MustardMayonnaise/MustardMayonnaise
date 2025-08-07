@@ -56,7 +56,7 @@
 ## 🏅 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-ojciriibw-murstardmayonaises-projects.vercel.app/api?username=MustardMayonnaise&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats-ojciriibw-murstardmayonaises-projects.vercel.app/api?show_icons=true&count_private=true&username=MustardMayonnaise" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardMayonnaise&layout=compact&hide=c%2B%2B,cmake,swift,html,c,kotlin,objective-c&card_width=470" />
 </div>
